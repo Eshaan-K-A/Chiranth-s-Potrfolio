@@ -1,0 +1,66 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#d62de6 0%, #b700ff 100%);
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+
+input
+{
+    background: grey;
+}
+#abcd {
+    width: 300px;
+    margin-top: 50px;
+}
+hr{
+    background-color: rgb(241, 31, 241);
+}
+iframe{
+    border-radius: 60px;
+}
